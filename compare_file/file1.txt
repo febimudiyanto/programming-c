@@ -1,0 +1,4 @@
+coba compare
+testing
+ini akan di read
+walaupun berbeda baris
